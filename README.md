@@ -19,10 +19,10 @@
 
 ## Parameter counts of property prediction baselines
 
-[![Preview of supplementary PDF](./fig/property_prediction.png)](./polyOne_experimental_results.pdf)
+[![Preview of supplementary PDF](./fig/property_prediction.png)](./property_prediction.pdf)
 
 
 
 ## Parameter counts of inverse design baseline
 
-[![Preview of supplementary PDF](./fig/inversedesign.png)](./Point2_experimental_results.pdf)
+[![Preview of supplementary PDF](./fig/inverse_design.png)](./inverse_design.pdf)
