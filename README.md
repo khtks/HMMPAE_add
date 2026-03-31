@@ -1,4 +1,4 @@
-# HMMPAE Rebuttal Supplement
+# HMMPAE Rebuttal Supplementary Results
 
 
 ## Additional experimental results on polyOne
