@@ -10,4 +10,4 @@
 
 ## Additional experimental result on Point2
 
-[![Preview of supplementary PDF](./fig/Point2.png)](./Point2_experimental_result.pdf)
+[![Preview of supplementary PDF](./fig/point2.png)](./Point2_experimental_result.pdf)
