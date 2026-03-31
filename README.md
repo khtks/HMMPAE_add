@@ -1,13 +1,13 @@
 # HMMPAE Rebuttal Supplement
 
 
-## Additional experimental result on polyOne
+## Additional experimental results on polyOne
 
 [![Preview of supplementary PDF](./fig/polyone.png)](./polyOne_experimental_results.pdf)
 
 
 
 
-## Additional experimental result on Point2
+## Additional experimental results on Point2
 
 [![Preview of supplementary PDF](./fig/point2.png)](./Point2_experimental_results.pdf)
