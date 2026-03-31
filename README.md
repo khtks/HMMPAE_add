@@ -23,6 +23,6 @@
 
 
 
-## Parameter counts of inverse design baseline
+## Parameter counts of inverse design baselines
 
 [![Preview of supplementary PDF](./fig/inverse_design.png)](./inverse_design.pdf)
