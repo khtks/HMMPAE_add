@@ -7,7 +7,22 @@
 
 
 
-
 ## Additional experimental results on Point2
 
 [![Preview of supplementary PDF](./fig/point2.png)](./Point2_experimental_results.pdf)
+
+
+---------------
+
+# Parameter counts
+
+
+## Parameter counts of property prediction baselines
+
+[![Preview of supplementary PDF](./fig/property_prediction.png)](./polyOne_experimental_results.pdf)
+
+
+
+## Parameter counts of inverse design baseline
+
+[![Preview of supplementary PDF](./fig/inversedesign.png)](./Point2_experimental_results.pdf)
